@@ -34,4 +34,6 @@ Reponse à la question 6:
 * Pour installer le nanao en cas ou il n'est pas la utiliser cette commande:
 * `sudo apt install git`
 
+Reponse à la question 7:
+* Voici comment cabler le BBG et le Cable de reseau bleu
 
