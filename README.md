@@ -11,7 +11,7 @@ Réponse à la question 2:
 * La couche numéro 3 qui correspond à la couche réseau.
 
 Réponse à la question 3:
-* Il fait révérance au protocole IP/RESEAU et les ports 
+* Il fait révérance au protocole IP/RESEAU, le port 80 qui correspond au service http et le port 53 qui correspond au service dns.
 
 ### Chapitre 3
 * créer un fichier.c avec l'editeur nano via ls permission d'administrateur
