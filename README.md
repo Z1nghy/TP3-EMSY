@@ -11,7 +11,7 @@ Réponse à la question 2:
 * La couche numéro 3 qui correspond à la couche réseau.
 
 Réponse à la question 3:
-* 
+* Il fait révérance au protocole IP/RESEAU et les ports 
 
 ### Chapitre 3
 * créer un fichier.c avec l'editeur nano via ls permission d'administrateur
