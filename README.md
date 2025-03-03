@@ -24,7 +24,9 @@ Réponse à la question 4:
 Reponse à la question 5:
 * Pour créer un répertoir utiliser cette commande: (les droits d'ecriture seront pour)
 *  `mkdir`
+*  Pour voir qui ont les droit d'ecriture ecivez cette commande:
+*  `ls -l`  (vous pourriez voir cettte ligne drwxr-xr-x 2 debian debian 4096 Mar  3 12:47 TP3_ARD_DSY)
+*  Sur la ligne au-dessus, nous voyons drwxr-xr-x, (d) qui est pour le type de répértoire, (rwx) qui veut dire que l'hote a toute les perm , r-x ui veut dire que l'utilisateur (g) a les perms read et execute, et de nouveaux r-x ui veut dire que l'utilisateur (o) a les perms read et execute.
 
 
-![alt text](https://github.com/[Z1nghy]/[TP3-EMSY]/README.md/blob/Capture%20d’écran.png
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/
+
