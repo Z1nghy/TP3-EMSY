@@ -16,5 +16,6 @@ Réponse à la question 4:
 `pwd`  (print name of current working directory)
 
 Reponse à la question 5:
-Pour créer un répertoir utiliser cette commande: (les droits d'ecriture seront pour)
+* Pour créer un répertoir utiliser cette commande: (les droits d'ecriture seront pour)
+
 
