@@ -28,5 +28,10 @@ Reponse à la question 5:
 *  `ls -l`  (vous pourriez voir cettte ligne drwxr-xr-x 2 debian debian 4096 Mar  3 12:47 TP3_ARD_DSY)
 *  Sur la ligne au-dessus, nous voyons drwxr-xr-x, (d) qui est pour le type de répértoire, (rwx) qui veut dire que l'hote a toute les perm , r-x ui veut dire que l'utilisateur (g) a les perms read et execute, et de nouveaux r-x ui veut dire que l'utilisateur (o) a les perms read et execute.
 
+Reponse à la question 6:
+* Pour savoir si si il y a un logicielnano installé, ecrivez cette commande:
+* `nano --version`
+* Pour installer le nanao en cas ou il n'est pas la utiliser cette commande:
+* `sudo apt install git`
 
 
