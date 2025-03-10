@@ -29,7 +29,7 @@ Reponse à la question 6:
 * `ifconfig`
 * L'inet est l'adresse ip, netmask est le masque de sous reseau, ether qui est l'adresse MAC et le broadcast qui est l'adresse reseau
 
-*Avec la commande `route -n` nous pouvons trouver la passerelle, el ce trouve ici:
+* Avec la commande `route -n` nous pouvons trouver la passerelle, el ce trouve ici:
 
 Reponse à la question 7:
 * Pour créer un répertoir utiliser cette commande: (les droits d'ecriture seront pour)
