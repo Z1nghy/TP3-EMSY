@@ -61,5 +61,6 @@ Avant de tester le code nous devons verifier que python3 est installé, utiliser
 * Et verifier que votre code fonctionne
 
 ### Chapitre 4
-Voir le code dans
+Voir le code dans le main
+![image](https://github.com/user-attachments/assets/06acf6e5-7972-45ce-9cae-f2aea2fc2c3f)
 
