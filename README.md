@@ -70,7 +70,7 @@ Avant de tester le code nous devons verifier que python3 est installé, utiliser
 
 * Et voici la preuve que le mail à été envoyé:
 
-* 
+
 ![image](https://github.com/user-attachments/assets/a45440ea-3966-4bce-ab46-f72807b1510f)
 
 
