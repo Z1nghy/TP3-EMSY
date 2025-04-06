@@ -58,5 +58,8 @@ Avant de tester le code nous devons verifier que python3 est installé, utiliser
 * `cd \NomDuFichier`
 * Lorsque vous etes dans le fichier utiliser cette commande pour tester le code:
 * `python3 NomDuCode.py`
-* ET verifier que votre code fonctionne
+* Et verifier que votre code fonctionne
+
+### Chapitre 4
+Voir le code dans
 
