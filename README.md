@@ -14,6 +14,7 @@ Réponse à la question 3:
 * Il fait révérance au protocole IP/RESEAU, le port 80 qui correspond au service http et le port 53 qui correspond au service dns.
 
 ### Chapitre 3
+#### 3.1
 * créer un fichier.c avec l'editeur nano via ls permission d'administrateur
 * `sudo nano TP3.c`
 
@@ -46,4 +47,16 @@ Reponse à la question 8:
 
 Reponse à la question 9:
 * Voici comment cabler le BBG et le Cable de reseau bleu
+
+#### 3.2
+* Pour mettre le code python sur la beagle board, utiliser winSCP, pour drague le .py depuis notre ordi à l'emplacement dans la beagle board.
+Avant de tester le code nous devons verifier que python3 est installé, utiliser cette cette commande:
+* `python3`
+* Il devra vous repondre la version du python
+
+* ensuit nous allons nous deplacer dans le fichier ou est le programme avec cette commande:
+* `cd \NomDuFichier`
+* Lorsque vous etes dans le fichier utiliser cette commande pour tester le code:
+* `python3 NomDuCode.py`
+* ET verifier que votre code fonctionne
 
