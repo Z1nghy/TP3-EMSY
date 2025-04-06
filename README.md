@@ -1,9 +1,7 @@
 # TP3-EMSY
 Repository du TP3 d'EMSY DSY/ARD
 
-
-## Operation effectué
-### Chapitre 2
+## Chapitre 2 LOGICIELS UTILISÉS
 Réponse à la question 1:
 * Le protocole TCP/IP (transmission Control Protocol/Internet Protocol)
 
@@ -13,8 +11,8 @@ Réponse à la question 2:
 Réponse à la question 3:
 * Il fait révérance au protocole IP/RESEAU, le port 80 qui correspond au service http et le port 53 qui correspond au service dns.
 
-### Chapitre 3
-#### 3.1
+## Chapitre 3 OPÉRATIONS
+### 3.1 CONNEXION ET PRISE EN MAIN
 * créer un fichier.c avec l'editeur nano via ls permission d'administrateur
 * `sudo nano TP3.c`
 
@@ -41,7 +39,7 @@ Reponse à la question 7:
 ![Capture d’écran ](https://github.com/user-attachments/assets/213e15b9-9aeb-4980-9cdd-27c106c1203b)
 
 
-*  Sur la ligne au-dessus, nous voyons drwxr-xr-x, (d) qui est pour le type de répértoire, (rwx) qui veut dire que l'hote a toute les perm , r-x ui veut dire que l'utilisateur (g) a les perms read et execute, et de nouveaux r-x ui veut dire que l'utilisateur (o) a les perms read et execute.
+*  Sur la photo ci-dessus, nous voyons drwxr-xr-x, (d) qui est pour le type de répértoire, (rwx) qui veut dire que l'hote a toute les permes , r-x ui veut dire que l'utilisateur (g) a les perms read et execute, et de nouveaux r-x ui veut dire que l'utilisateur (o) a les perms read et execute.
 
 Reponse à la question 8:
 * Pour savoir si si il y a un logiciel nano installé, ecrivez cette commande:
@@ -52,7 +50,7 @@ Reponse à la question 8:
 Reponse à la question 9:
 * Voici comment cabler le BBG et le Cable de reseau bleu
 
-#### MESURE DE LA TEMPERATURE (Dew Point)
+### MESURE DE LA TEMPERATURE (Dew Point)
 * Pour mettre le code python sur la beagle board, utiliser winSCP, pour drague le .py depuis notre ordi à l'emplacement dans la beagle board.
 Avant de tester le code nous devons verifier que python3 est installé, utiliser cette cette commande:
 * `python3`
@@ -64,11 +62,11 @@ Avant de tester le code nous devons verifier que python3 est installé, utiliser
 * `python3 NomDuCode.py`
 * Et verifier que votre code fonctionne, voici ce que vous devriez avoir:
 
-### Chapitre ENREGISTREMENT CSV
+## Chapitre ENREGISTREMENT CSV
 * Voir le code dans le main
 * Voici ce que vous devriez avoir:
 
-### Chapitre ENVOI D’EMAIL
+## Chapitre ENVOI D’EMAIL
 * Voir le code dans le main
 * Voici ce que vous devriez avoir:
 
@@ -80,7 +78,7 @@ Avant de tester le code nous devons verifier que python3 est installé, utiliser
 
 * Nous pouvons bien voir que le mail à été envoyé depuis ce meme mail nous informant que la limite à été depassé
 
-### Chapitre 6 EXÉCUTION AUTOMATIQUE
+## Chapitre 6 EXÉCUTION AUTOMATIQUE
 * Pour ce chapitre nous devons tout simplement ecrire cette commande:
 * `crontab -e`
 * Pour pouvoir acceder à cette fenetre de commande, remplisser la derniere ligne avec les informations indiqué sur la photo ci-dessous:
