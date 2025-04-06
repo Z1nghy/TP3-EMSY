@@ -68,9 +68,9 @@ Avant de tester le code nous devons verifier que python3 est installé, utiliser
 * Voir le code dans le main
 * Voici ce que vous devriez avoir:
 
-Et voici la preuve que le mail à été envoyé:
+* Et voici la preuve que le mail à été envoyé:
 ![image](https://github.com/user-attachments/assets/a45440ea-3966-4bce-ab46-f72807b1510f)
-Nous pouvons bien voir que le mail à été envoyé depuis ce meme mail nous informant que la limite à été depassé
+* Nous pouvons bien voir que le mail à été envoyé depuis ce meme mail nous informant que la limite à été depassé
 
 ### Chapitre 6 EXÉCUTION AUTOMATIQUE
 * Pour ce chapitre nous devons tout simplement ecrire cette commande:
