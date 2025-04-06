@@ -2,7 +2,7 @@
 Repository du TP3 d'EMSY DSY/ARD
 
 ## Chapitre 2 LOGICIELS UTILISÉS
-Réponse à la question 1:
+![image](https://github.com/user-attachments/assets/e7973706-3806-4db7-8d84-0e0eebfbe79d)
 * Le protocole TCP/IP (transmission Control Protocol/Internet Protocol)
 
 Réponse à la question 2:
