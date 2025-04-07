@@ -28,6 +28,7 @@ lors de l'ouverture du programme nous nous trouvons dans le repertoir /home/debi
 * Pour trouver la configuration reseau taper cette commande:
 * `ifconfig`
 * L'inet est l'adresse ip, netmask est le masque de sous reseau, ether qui est l'adresse MAC et le broadcast qui est l'adresse reseau
+  
 ![image](https://github.com/user-attachments/assets/8d91a1b0-7f54-46cd-abf5-b090e814d91b)
 
 * Avec la commande `route -n` nous pouvons trouver la passerelle, et ce trouve ici:
