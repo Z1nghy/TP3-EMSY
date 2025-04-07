@@ -101,5 +101,6 @@ Avant de tester le code nous devons verifier que python3 est installé, utiliser
 * Pour ce chapitre nous devons tout simplement ecrire cette commande:
 * `crontab -e`
 * Pour pouvoir acceder à cette fenetre de commande, remplisser la derniere ligne avec les informations indiqué sur la photo ci-dessous:
+  
   ![image](https://github.com/user-attachments/assets/23da3eac-f7c7-495a-a04b-ace5064f44ce)
 
