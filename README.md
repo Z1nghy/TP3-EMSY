@@ -28,8 +28,13 @@ lors de l'ouverture du programme nous nous trouvons dans le repertoir /home/debi
 * Pour trouver la configuration reseau taper cette commande:
 * `ifconfig`
 * L'inet est l'adresse ip, netmask est le masque de sous reseau, ether qui est l'adresse MAC et le broadcast qui est l'adresse reseau
+![image](https://github.com/user-attachments/assets/8d91a1b0-7f54-46cd-abf5-b090e814d91b)
 
 * Avec la commande `route -n` nous pouvons trouver la passerelle, et ce trouve ici:
+  
+![image](https://github.com/user-attachments/assets/1342f786-f0ca-48be-9671-3598b6fa2718)
+
+
 
 ![image](https://github.com/user-attachments/assets/12a05c76-2c27-4ea4-97ca-84e6b522d80a)
 * Pour créer un répertoir utiliser cette commande: (les droits d'ecriture seront pour)
@@ -59,26 +64,34 @@ lors de l'ouverture du programme nous nous trouvons dans le repertoir /home/debi
 * Pour mettre le code python sur la beagle board, utiliser winSCP, pour drague le .py depuis notre ordi à l'emplacement dans la beagle board.
 Avant de tester le code nous devons verifier que python3 est installé, utiliser cette cette commande:
 * `python3`
-* Il devra vous repondre la version du python
+* Il devra vous repondre la version du python, voir ci-dessous:
+![image](https://github.com/user-attachments/assets/2e155c57-1cb5-4e2d-a25f-807f89319956)
 
 * ensuit nous allons nous deplacer dans le fichier ou est le programme avec cette commande:
 * `cd \NomDuFichier`
 * Lorsque vous etes dans le fichier utiliser cette commande pour tester le code:
 * `python3 NomDuCode.py`
 * Et verifier que votre code fonctionne, voici ce que vous devriez avoir:
+![image](https://github.com/user-attachments/assets/8d17b314-9ca5-4e1c-ae38-80cf4d3f94d7)
 
 ## Chapitre ENREGISTREMENT CSV
 * Voir le code dans le main
 * Voici ce que vous devriez avoir:
 
+  
+![image](https://github.com/user-attachments/assets/d11c1d1d-d275-4cd2-8257-a549b5755a12)
+
 ## Chapitre ENVOI D’EMAIL
 * Voir le code dans le main
-* Voici ce que vous devriez avoir:
+* Voici ce que vous devriez avoir si la temperature à été dépassé:
+![image](https://github.com/user-attachments/assets/16019061-a06b-4a2e-a91f-0c2bcdee1237)
+
 
 * Et voici la preuve que le mail à été envoyé:
 
+  
+![image](https://github.com/user-attachments/assets/663e329a-9fca-41bb-a0ac-dc9a473d84ed)
 
-![image](https://github.com/user-attachments/assets/a45440ea-3966-4bce-ab46-f72807b1510f)
 
 
 * Nous pouvons bien voir que le mail à été envoyé depuis ce meme mail nous informant que la limite à été depassé
@@ -87,4 +100,5 @@ Avant de tester le code nous devons verifier que python3 est installé, utiliser
 * Pour ce chapitre nous devons tout simplement ecrire cette commande:
 * `crontab -e`
 * Pour pouvoir acceder à cette fenetre de commande, remplisser la derniere ligne avec les informations indiqué sur la photo ci-dessous:
-  
+  ![image](https://github.com/user-attachments/assets/23da3eac-f7c7-495a-a04b-ace5064f44ce)
+
